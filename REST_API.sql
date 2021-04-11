@@ -1,0 +1,1 @@
+CREATE DATABASE restful_api;

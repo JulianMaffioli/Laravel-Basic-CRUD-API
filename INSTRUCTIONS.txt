@@ -1,0 +1,13 @@
+This is a basic CRUD functionality of a REST API in Laravel
+
+1. Run the SQL Querty in order to create the DB
+
+2. Run server: php artisan serve
+
+3. In postman use the IP use the diferent functions
+
+ENJOY!
+--------------------------------------------------------------------------------------------------------------
+Credits:
+
+TheCodePro : https://www.youtube.com/watch?v=WDha52dbLWMpo
